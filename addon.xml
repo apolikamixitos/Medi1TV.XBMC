@@ -2,7 +2,7 @@
 <addon id="plugin.video.medi1tv" name="Medi1TV" version="0.1.1"
 	provider-name="Ayoub DARDORY (Apolikamixitos)">
 	<requires>
-		<import addon="xbmc.python" version="2.0" />
+		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup" version="3.0.8" />
 		<import addon="script.module.simplejson" version="2.0.10" />
 		<import addon="script.module.xbmcswift" version="0.2.0" />
