@@ -1,6 +1,6 @@
 Medi1TV Addon for XBMC
 ========================
-version 0.0.1
+version 1.1.1
 
 ### Summary ###
 This is a plugin for [XBMC](http://xbmc.org) that allows you to watch videos from <http://www.medi1tv.com/ar>.
